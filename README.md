@@ -1,1 +1,3 @@
-# Flutter-Firebase-BlogApp
+# blog_app
+
+A new Flutter project.
